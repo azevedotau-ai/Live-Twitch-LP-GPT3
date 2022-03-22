@@ -39,9 +39,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Landing Page desenvolvida durante a live:
+Landing Page desenvolvida durante estudo em casa:
 
-Live Preview: https://live-twitch-lp-gpt3.vercel.app/
+
 
 ## 🎨 Inspiração:
 
@@ -53,4 +53,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by birobirobiro
+Feito com ♥ by Azevedo Tau
